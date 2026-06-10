@@ -47,6 +47,12 @@ right: (-1, 0, 1)
 ```
 The selected lip must always move by `+1` when moved left.
 
+## Manual Mode
+
+If you want to fiddle around yourself, but don't want to waste lockpicks or time ingame, you can do that with the Manual Test Mode.
+Just click on the buttons to simulate the corresponding movement of the lockpicking mini game.
+Stress inducing moves are denoted by red coloring of the button and are updated accordingly after each move.
+
 ## Stress
 
 A move causes stress if any pin would move outside the valid range.
